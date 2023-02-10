@@ -38,6 +38,6 @@ public class ConversaoJava {
             }
         } while (opcao < 3);
         System.out.println("Até mais!!");
-        // o código foi commitado agora diretamente pela netbeans
+        // o código foi commitado agora diretamente pelo git bash, tentei diretamente pela NetBeans, mas tive problemas por conta da autenticação de dois fatores.
     }
 }
